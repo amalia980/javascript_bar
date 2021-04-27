@@ -1,0 +1,23 @@
+nav {
+    height: 7.5rem;
+    background-color: black;
+}
+img {
+    margin-left: 2rem;
+}
+
+.active {  
+    padding: 1rem 2rem 1rem 2rem;
+    font-size: 1rem;
+}
+
+.nav-link :nth-child(1) {
+    background-color: #EC008C;
+    border-radius: 1.5px;
+    padding: 1rem 2rem 1rem 2rem;
+}
+
+.nav-link {
+    color: white;
+    margin: 1rem;
+}
